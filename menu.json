@@ -165,6 +165,15 @@
     },
     {
       "id": "i14",
+      "name": "金针菇",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": "https://i.postimg.cc/FRBmPvVF/Chat-GPT-Image-Jul-1-2026-04-20-35-PM.png"
+    },
+    {
+      "id": "i15",
       "name": "100PLUS",
       "cat": "饮料",
       "price": 4,
@@ -173,7 +182,7 @@
       "img": "https://i.postimg.cc/Jn7vjXNH/Chat-GPT-Image-Jul-1-2026-02-45-32-PM.png"
     },
     {
-      "id": "i15",
+      "id": "i16",
       "name": "COLA",
       "cat": "饮料",
       "price": 4,
