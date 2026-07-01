@@ -1,0 +1,199 @@
+{
+  "brand": {
+    "name": "鸳鸯串串",
+    "slogan": "一串入味·鸳鸯对味",
+    "phone": "60xxxxxxxxx",
+    "payNote": "DuitNow / TNG eWallet：扫码付款后,把截图发给我们 WhatsApp 确认。",
+    "payQR": ""
+  },
+  "minSkewers": 5,
+  "noteLabel": "备注",
+  "notePlaceholder": "例如:不要某料、想要的时间…",
+  "pickupOptions": [
+    {
+      "name": "周一·周二 预购送校 10am–1pm",
+      "min": 5
+    },
+    {
+      "name": "PV 13,15 送 guard house",
+      "min": 10
+    },
+    {
+      "name": "PV 16 送门口",
+      "min": 10
+    }
+  ],
+  "broths": [
+    {
+      "name": "麻辣",
+      "on": true
+    },
+    {
+      "name": "鸡骨汤",
+      "on": true
+    },
+    {
+      "name": "番茄",
+      "on": true
+    },
+    {
+      "name": "冬阴功",
+      "on": true
+    }
+  ],
+  "items": [
+    {
+      "id": "i1",
+      "name": "火腿",
+      "cat": "肉类",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i2",
+      "name": "鸡腿肉",
+      "cat": "肉类",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i3",
+      "name": "Hot Dog",
+      "cat": "肉类",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i4",
+      "name": "小鱼丸",
+      "cat": "丸类海鲜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i5",
+      "name": "鱼豆腐",
+      "cat": "丸类海鲜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i6",
+      "name": "蟹柳",
+      "cat": "丸类海鲜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i7",
+      "name": "海鲜豆腐",
+      "cat": "丸类海鲜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i8",
+      "name": "芝士豆腐",
+      "cat": "豆制品",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i9",
+      "name": "豆泡",
+      "cat": "豆制品",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i10",
+      "name": "大白菜",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i11",
+      "name": "平菇",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i12",
+      "name": "马铃薯",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i13",
+      "name": "莲藕",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i14",
+      "name": "玉米",
+      "cat": "蔬菜",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i15",
+      "name": "鹌鹑蛋",
+      "cat": "其他",
+      "price": 2,
+      "type": "skewer",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i16",
+      "name": "100PLUS",
+      "cat": "饮料",
+      "price": 4,
+      "type": "drink",
+      "sold": false,
+      "img": ""
+    },
+    {
+      "id": "i17",
+      "name": "COLA",
+      "cat": "饮料",
+      "price": 4,
+      "type": "drink",
+      "sold": false,
+      "img": ""
+    }
+  ]
+}
