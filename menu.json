@@ -2,25 +2,29 @@
   "brand": {
     "name": "鸳鸯串串",
     "slogan": "一串入味·鸳鸯对味",
-    "phone": "60xxxxxxxxx",
-    "payNote": "DuitNow / TNG eWallet：扫码付款后,把截图发给我们 WhatsApp 确认。",
-    "payQR": ""
+    "phone": "60177423365",
+    "payNote": "DuitNow/TNG 扫码付款后发截图给我们",
+    "payQR": "https://i.postimg.cc/t4rP1T6F/Whats-App-Image-2026-06-30-at-23-26-42.jpg"
   },
   "minSkewers": 5,
   "noteLabel": "备注",
-  "notePlaceholder": "例如:不要某料、想要的时间…",
+  "notePlaceholder": "时间，地点，门牌…",
   "pickupOptions": [
     {
-      "name": "周一·周二 预购送校 10am–1pm",
+      "name": "自取（PV 16）",
       "min": 5
     },
     {
-      "name": "PV 13,15 送 guard house",
+      "name": "PV 13,15 送到 guard house",
       "min": 10
     },
     {
-      "name": "PV 16 送门口",
+      "name": "PV 16 送到门口",
       "min": 10
+    },
+    {
+      "name": "LALAMOVE（需自费）",
+      "min": 5
     }
   ],
   "broths": [
@@ -29,7 +33,7 @@
       "on": true
     },
     {
-      "name": "鸡骨汤",
+      "name": "鸡汤",
       "on": true
     },
     {
@@ -49,16 +53,16 @@
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/2jxRx6vm/Chat-GPT-Image-Jun-30-2026-11-40-22-PM.png"
     },
     {
       "id": "i2",
-      "name": "鸡腿肉",
+      "name": "鸡胸肉",
       "cat": "肉类",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/5024BC0H/Chat-GPT-Image-Jun-30-2026-11-41-19-PM.png"
     },
     {
       "id": "i3",
@@ -67,7 +71,7 @@
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/zvwxqVCV/Chat-GPT-Image-Jun-30-2026-11-46-34-PM.png"
     },
     {
       "id": "i4",
@@ -76,124 +80,106 @@
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/KzBN5RHX/Chat-GPT-Image-Jun-30-2026-11-50-23-PM.png"
     },
     {
       "id": "i5",
-      "name": "鱼豆腐",
-      "cat": "丸类海鲜",
-      "price": 2,
-      "type": "skewer",
-      "sold": false,
-      "img": ""
-    },
-    {
-      "id": "i6",
       "name": "蟹柳",
       "cat": "丸类海鲜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/zGQFZCmZ/Chat-GPT-Image-Jul-1-2026-12-09-10-AM.png"
     },
     {
-      "id": "i7",
+      "id": "i6",
       "name": "海鲜豆腐",
       "cat": "丸类海鲜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/htY1W9kk/Chat-GPT-Image-Jul-1-2026-01-17-52-AM.png"
     },
     {
-      "id": "i8",
+      "id": "i7",
       "name": "芝士豆腐",
-      "cat": "豆制品",
+      "cat": "丸类海鲜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/bw59cxXY/Chat-GPT-Image-Jul-1-2026-12-37-28-AM.png"
     },
     {
-      "id": "i9",
+      "id": "i8",
       "name": "豆泡",
       "cat": "豆制品",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/7LTMx54p/Chat-GPT-Image-Jul-1-2026-12-40-53-AM.png"
     },
     {
-      "id": "i10",
-      "name": "大白菜",
+      "id": "i9",
+      "name": "娃娃菜",
       "cat": "蔬菜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/76zTQnW5/Chat-GPT-Image-Jul-1-2026-08-43-47-AM.png"
     },
     {
-      "id": "i11",
+      "id": "i10",
       "name": "平菇",
       "cat": "蔬菜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/FH6V5jMq/Chat-GPT-Image-Jul-1-2026-01-08-30-AM.png"
     },
     {
-      "id": "i12",
-      "name": "马铃薯",
+      "id": "i11",
+      "name": "土豆片",
       "cat": "蔬菜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/FH6V5ytt/Chat-GPT-Image-Jul-1-2026-01-17-59-AM.png"
     },
     {
-      "id": "i13",
+      "id": "i12",
       "name": "莲藕",
       "cat": "蔬菜",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/MpJzs4Hx/Chat-GPT-Image-Jul-1-2026-01-37-30-AM.png"
     },
     {
-      "id": "i14",
-      "name": "玉米",
-      "cat": "蔬菜",
-      "price": 2,
-      "type": "skewer",
-      "sold": false,
-      "img": ""
-    },
-    {
-      "id": "i15",
+      "id": "i13",
       "name": "鹌鹑蛋",
       "cat": "其他",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/254GQ1tH/Chat-GPT-Image-Jul-1-2026-01-51-15-AM.png"
     },
     {
-      "id": "i16",
+      "id": "i14",
       "name": "100PLUS",
       "cat": "饮料",
       "price": 4,
       "type": "drink",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/3NJYDKmY/Chat-GPT-Image-Jul-1-2026-08-51-07-AM.png"
     },
     {
-      "id": "i17",
+      "id": "i15",
       "name": "COLA",
       "cat": "饮料",
       "price": 4,
       "type": "drink",
       "sold": false,
-      "img": ""
+      "img": "https://i.postimg.cc/MHWKb02Q/Chat-GPT-Image-Jul-1-2026-08-49-39-AM.png"
     }
   ]
 }
