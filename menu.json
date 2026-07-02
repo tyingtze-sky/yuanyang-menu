@@ -11,6 +11,10 @@
   "notePlaceholder": "时间，地点，门牌…",
   "pickupOptions": [
     {
+      "name": "预购 送到学校&PV Area（只限星期一 & 二，10am-1pm）",
+      "min": 5
+    },
+    {      
       "name": "自取（PV 16）",
       "min": 5
     },
