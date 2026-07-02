@@ -12,7 +12,7 @@
   "pickupOptions": [
     {
       "name": "预购 送到学校&PV Area（只限星期一 & 二，10am-1pm）",
-   "min": 10
+      "min": 10
     },
     {      
       "name": "自取（PV 16）",
