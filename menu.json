@@ -8,7 +8,7 @@
   },
   "minSkewers": 5,
  "noteLabel": "备注（送货地址 / 时间）",
- "notePlaceholder": "例：PV16 12-10 · 想周三晚8点拿",
+ "notePlaceholder": "例：PV16 12-10 · 想周三晚上8点拿",
  "pickupOptions": [
     { "name": "预购送校/PV Area（周一二 10am-1pm）", "min": 10 },
     { "name": "自取 · PV 16" },
