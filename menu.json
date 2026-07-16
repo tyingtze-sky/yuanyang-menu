@@ -140,7 +140,7 @@
       "cat": "蔬菜",
       "price": 2,
       "type": "skewer",
-      "sold": false,
+      "sold": true,
       "img": "https://i.postimg.cc/MpJzs4Hx/Chat-GPT-Image-Jul-1-2026-01-37-30-AM.png"
     },
     {
