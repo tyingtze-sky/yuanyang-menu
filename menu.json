@@ -178,15 +178,6 @@
       "type": "drink",
       "sold": false,
       "img": "https://i.postimg.cc/MHWKb02Q/Chat-GPT-Image-Jul-1-2026-08-49-39-AM.png"
-    },
-    {
-      "id": "i17",
-      "name": "MAGGIE",
-      "cat": "其他",
-      "price": 2,
-      "type": "skewer",
-      "sold": false,
-      "img": ""
     }
   ]
 }
