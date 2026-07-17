@@ -182,11 +182,10 @@
     {
       "id": "i17",
       "name": "MAGGIE",
-      "cat": "面类",
+      "cat": "其他",
       "price": 2,
       "type": "skewer",
       "sold": false,
-      "img": ""
     }
   ]
 }
