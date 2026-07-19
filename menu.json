@@ -86,7 +86,7 @@
       "cat": "丸类海鲜",
       "price": 2,
       "type": "skewer",
-      "sold": true,
+      "sold": false,
       "img": "https://i.postimg.cc/htY1W9kk/Chat-GPT-Image-Jul-1-2026-01-17-52-AM.png"
     },
     {
